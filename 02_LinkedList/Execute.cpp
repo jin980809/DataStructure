@@ -68,7 +68,7 @@ int main()
 
 		int a = 0;
 	}
-	
+	// 헤더, tail 잘 지워졌는지 확인하기.
 
 	return 0;
 }
